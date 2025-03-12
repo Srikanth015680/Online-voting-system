@@ -1,8 +1,6 @@
 # Online-voting-system
 Micro Project
 
-# 🗳 Online Voting System  
-
 ##  Overview  
 The **Online Voting System** is a secure and user-friendly web application designed to facilitate online elections. It provides a digital platform where users can register, cast their votes, and view election results in a transparent and efficient manner.
 
