@@ -1,2 +1,2 @@
 # Online-voting-system
-Csp
+Micro Project
